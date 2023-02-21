@@ -1,0 +1,15 @@
+D:\Учеба\Семинары по знакомству с языком\Lesson1\HomeWork3\obj\Debug\net6.0\HomeWork3.csproj.AssemblyReference.cache
+D:\Учеба\Семинары по знакомству с языком\Lesson1\HomeWork3\obj\Debug\net6.0\HomeWork3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Семинары по знакомству с языком\Lesson1\HomeWork3\obj\Debug\net6.0\HomeWork3.AssemblyInfoInputs.cache
+D:\Учеба\Семинары по знакомству с языком\Lesson1\HomeWork3\obj\Debug\net6.0\HomeWork3.AssemblyInfo.cs
+D:\Учеба\Семинары по знакомству с языком\Lesson1\HomeWork3\obj\Debug\net6.0\HomeWork3.csproj.CoreCompileInputs.cache
+D:\Учеба\Семинары по знакомству с языком\Lesson1\HomeWork3\bin\Debug\net6.0\HomeWork3.exe
+D:\Учеба\Семинары по знакомству с языком\Lesson1\HomeWork3\bin\Debug\net6.0\HomeWork3.deps.json
+D:\Учеба\Семинары по знакомству с языком\Lesson1\HomeWork3\bin\Debug\net6.0\HomeWork3.runtimeconfig.json
+D:\Учеба\Семинары по знакомству с языком\Lesson1\HomeWork3\bin\Debug\net6.0\HomeWork3.dll
+D:\Учеба\Семинары по знакомству с языком\Lesson1\HomeWork3\bin\Debug\net6.0\HomeWork3.pdb
+D:\Учеба\Семинары по знакомству с языком\Lesson1\HomeWork3\obj\Debug\net6.0\HomeWork3.dll
+D:\Учеба\Семинары по знакомству с языком\Lesson1\HomeWork3\obj\Debug\net6.0\refint\HomeWork3.dll
+D:\Учеба\Семинары по знакомству с языком\Lesson1\HomeWork3\obj\Debug\net6.0\HomeWork3.pdb
+D:\Учеба\Семинары по знакомству с языком\Lesson1\HomeWork3\obj\Debug\net6.0\HomeWork3.genruntimeconfig.cache
+D:\Учеба\Семинары по знакомству с языком\Lesson1\HomeWork3\obj\Debug\net6.0\ref\HomeWork3.dll
