@@ -1,0 +1,5 @@
+D:\Учеба\Семинары по знакомству с языком\Seminar4\obj\Debug\net6.0\Seminar4.csproj.AssemblyReference.cache
+D:\Учеба\Семинары по знакомству с языком\Seminar4\obj\Debug\net6.0\Seminar4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Семинары по знакомству с языком\Seminar4\obj\Debug\net6.0\Seminar4.AssemblyInfoInputs.cache
+D:\Учеба\Семинары по знакомству с языком\Seminar4\obj\Debug\net6.0\Seminar4.AssemblyInfo.cs
+D:\Учеба\Семинары по знакомству с языком\Seminar4\obj\Debug\net6.0\Seminar4.csproj.CoreCompileInputs.cache
