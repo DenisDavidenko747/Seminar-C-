@@ -82,39 +82,39 @@
 //     return array;
 // }
 
-void PrintArray(double[] array)
-{
-    for(int i = 0; i < array.Length; i++)
-        Console.Write(array[i] + " ");
-        Console.WriteLine();
+// void PrintArray(double[] array)
+// {
+//     for(int i = 0; i < array.Length; i++)
+//         Console.Write(array[i] + " ");
+//         Console.WriteLine();
         
-}
+// }
 
-double Difference(double[] array)
-{
-    double min = array[0];
-    double max = array[0];
-    for(int i = 1; i < array.Length; i++) 
-    {
-        if(array[i] > max)
-        {
-            max = array[i];
+// double Difference(double[] array)
+// {
+//     double min = array[0];
+//     double max = array[0];
+//     for(int i = 1; i < array.Length; i++) 
+//     {
+//         if(array[i] > max)
+//         {
+//             max = array[i];
             
             
-        }
-        if(array[i] < min)
-        {
-            min = array[i];
+//         }
+//         if(array[i] < min)
+//         {
+//             min = array[i];
             
-        }
-    }
-    Console.WriteLine($"всего {array.Length} чисел. Максимальное значение = {max}, минимальное значение = {min}");
-    Console.WriteLine($"Разница между максимальным и минимальным значением = {max - min}");
+//         }
+//     }
+//     Console.WriteLine($"всего {array.Length} чисел. Максимальное значение = {max}, минимальное значение = {min}");
+//     Console.WriteLine($"Разница между максимальным и минимальным значением = {max - min}");
     
-}
+// }
 
-double[] newArray = {3, 7, 22, 2, 78};
-PrintArray(newArray);
-double result = Difference(newArray);
-Console.WriteLine(result);
+// double[] newArray = {3, 7, 22, 2, 78};
+// PrintArray(newArray);
+// double result = Difference(newArray);
+// Console.WriteLine(result);
 
